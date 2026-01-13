@@ -1,2 +1,8 @@
 __pycache__/
 * .pyc
+
+# Arquivos desnecessários 
+testar_tudo.py
+verificar_estrut.py
+requirements.txt
+gitignore.py
